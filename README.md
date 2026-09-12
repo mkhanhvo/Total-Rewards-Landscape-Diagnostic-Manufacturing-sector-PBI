@@ -1,4 +1,4 @@
-<img width="1000" height="553" alt="image" src="https://github.com/user-attachments/assets/c80f2b47-1f20-4727-9f60-033790c579c8" />
+<img width="681" height="382" alt="image" src="https://github.com/user-attachments/assets/1c1a6217-563b-4034-9b57-6af813b8f357" />
 
 ## 📊 Total Rewards Landscape & Diagnostic | Manufacturing sector | PBI
 
