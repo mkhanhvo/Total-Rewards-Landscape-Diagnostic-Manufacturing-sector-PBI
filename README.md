@@ -1,3 +1,5 @@
+<img width="1000" height="553" alt="image" src="https://github.com/user-attachments/assets/c80f2b47-1f20-4727-9f60-033790c579c8" />
+
 ## 📊 Total Rewards Landscape & Diagnostic | Manufacturing sector | PBI
 
 ### Author: Vo Tran Mai Khanh
@@ -98,6 +100,8 @@ Every job family recorded a sharp payout spike in March 2024 (115 - 178%), a pat
 #### 📌 Analysis 4. Bonus System Fails to Differentiate Performance
 Every job family in 2024 & 2025 falls below the 1.5x threshold that denotes effective differentiation between high and low performers. The trend is deteriorating that five of six families sit below 1.0 in 2025, indicating bottom quartile performers receive higher median bonus than top quartile performers compared with four in 2024. Read against KPI Distribution which shows an extreme concentration near 100% achievement in both years, this lack of differentiation is partly structural with the workforce clustered almost entirely at a single performance level, little genuine variance remains for any bonus formula to act on
 
+Besides that, a comparison of median bonus against median base salary reveals mechanism underlying the low differentiation observed above: in most job families, bottom KPI quartile group holds a higher median base salary than top KPI quartile group (Engineering/Technical: 11M vs 9M in 2024, HR & Admin: 10M vs 8M) and frequently receives comparable or greater bonus as well. This indicates that both salary positioning and bonus payout are governed by tenure and internal seniority rather than by performance in the current review cycle
+
 #### *2024 context*
 
 <img width="898" height="190" alt="image" src="https://github.com/user-attachments/assets/a0eaf72b-3fc8-403d-9e2c-038c5034783c" />
@@ -106,3 +110,42 @@ Every job family in 2024 & 2025 falls below the 1.5x threshold that denotes effe
 
 <img width="899" height="188" alt="image" src="https://github.com/user-attachments/assets/fe506f0f-035f-4c35-bc6c-6ab16f353f9a" />
 
+### 2️⃣ From Reward Structure to Retention Impact
+
+#### *2024 snapshot*
+
+<img width="943" height="478" alt="image" src="https://github.com/user-attachments/assets/c98baa02-b322-4c96-bcaa-418a25f4e2dc" />
+
+#### *2025 snapshot*
+
+<img width="945" height="485" alt="image" src="https://github.com/user-attachments/assets/1924edc4-45a9-4719-ab52-39585350ed8a" />
+
+#### 📌 Analysis 5. Turnover Concentrated Among Well Paid Staff
+
+#### *2024 Production & Operations snapshot*
+
+<img width="946" height="488" alt="image" src="https://github.com/user-attachments/assets/52a9dc75-9d4d-4841-8370-f310df07c3ae" />
+
+#### *2025 Production & Operations snapshot*
+
+<img width="942" height="485" alt="image" src="https://github.com/user-attachments/assets/c0e5ed15-8da9-4ec6-ae5e-e99dcbca3745" />
+
+#### *2024 Engineering/Technical snapshot*
+
+<img width="947" height="490" alt="image" src="https://github.com/user-attachments/assets/de4e3682-8c93-4de0-b403-39b22ba89e5f" />
+
+#### *2025 Engineering/Technical snapshot*
+
+<img width="945" height="492" alt="image" src="https://github.com/user-attachments/assets/e7d2e0c5-5e21-4ed4-8aa1-144b010e5e64" />
+
+Voluntary turnover peaks first in lower half compa ratio band (80 - 100%) and second in high compa ratio band (> 120%) in both 2024 & 2025 - segments already compensated at or above their internal salary range position. In Production & Operations, this pattern holds across both years and intensifies markedly in 2025 (lower half compa ratio band: 2.2% to 39.2%; high compa ratio band: 1.0% to 31.5%). Engineering/Technical exhibits the inverse trajectory: turnover was concentrated in the low compa ratio band in 2024, a pattern consistent with underpaid staff exiting before converging by 2025 onto the same well compensated segments observed in Production. Once departures shift from underpaid to well paid, tenured staff, compensation level no longer functions as an effective retention lever
+
+#### 📌 Analysis 6. Underperformance Rising in High Turnover Segments
+Within Production & Operations, the share of Below Expectation ratings has risen in exactly the compa ratio bands where voluntary turnover is highest - from 22.97% to 31.03% in lower half compa ratio band and from 12.5% to 13.01% in high compa ratio band while a previously clean low compa segment, at 100% Meets Expectation in 2024, developed a 19.79% Below Expectation share by 2025. Taken together with the 1 - 3 year tenure band standing out as the peak of voluntary attrition across every cut examined, the evidence points to a self reinforcing cycle: the absence of meaningful bonus differentiation erodes engagement, the erosion of engagement manifests as declining performance and the organization's most capable employees choose to exit rather than remain and underperform
+
+### 🔎 Recommendation
+- Address recalibrate KPI ratings since redesigning the bonus formula alone will not produce differentiation while ratings remain compressed
+- Decouple bonus calculation from tenure and salary band position - a performance linked bonus requires its own calculation logic, independent of an employee's existing position within the pay structure
+- Rebalance variable pay weighting for Production & Operations against manufacturing sector benchmarks, given its combination of the lowest variable share and the highest payout volatility across job families
+- Verify March 2024 payout spike with the payroll function before attributing it to performance, given the likelihood of a scheduled adjustment rather than genuine overperformance
+- Prioritize retention interventions in Production & Operations and Engineering/Technical, specifically among 1–3 year tenure cohort and the 80 - 100%/above-120% compa ratio segments, the precise profile of employees currently exiting despite competitive pay.
