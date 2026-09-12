@@ -54,13 +54,55 @@ The Vietnam based manufacturing company operates a domestic production facility 
 
 ### 1️⃣ Total Rewards Landscape & Diagnostic (2024 vs 2025)
 
-#### 2024 Snapshot
+#### *2024 Snapshot*
 
 <img width="632" height="542" alt="image" src="https://github.com/user-attachments/assets/bfe8dafb-589f-4907-851d-8ad4edf27602" />
 
+#### *2025 Snapshot*
+
+<img width="633" height="542" alt="image" src="https://github.com/user-attachments/assets/597a6791-5f4e-44d8-a484-b419ee11b3e0" />
+
 #### 📌 Analysis 1. Compensation Mix Shifts Steadily Toward Fixed Pay
-Total compensation structure includes SI salary (base), employer SI contribution, OT + Leave bonus, 13th salary and KPI bonus. Total comp per employee has grown from 33.43% of the mix in 2022 to over 54% in 2024, while KPI bonus has steadily shrunk from 27.22% to around 21 - 24%. In absolute terms, total comp per employee is essentially flat between 2024 (62.10M₫) and 2025 (60.96M₫) but fell 40.4% from 2023 to 2024. Given the large net headcount increase that year (268 new hires), this is most likely a dilution effect since new hires joining mid year are counted as full headcount despite earning only partial year pay rather than a real cut to individual compensation
+Total compensation structure comprises base salary, allowance, KPI bonus, employer side statutory insurance contributions, 13th salary overtime and leave pay . Base salary's share of the mix has risen from 33.43% in 2022 to over 54% in 2024 while KPI bonus has contracted correspondingly, from 27.22% to approximately 21 - 24%. In absolute terms, total compensation per employee is materially unchanged between 2024 (62.10M) and 2025 (60.96M), following a 40.4% decline from 2023 to 2024. Given the substantial net headcount growth that year (268 new hires), this decline is most plausibly attributable to a dilution effect - employees joining mid year are counted as full headcount despite receiving only partial year pay rather than a genuine reduction in individual compensation
+
+#### *2024 context*
+
+<img width="867" height="230" alt="image" src="https://github.com/user-attachments/assets/0f43352a-0d00-4ebd-beff-e68d2305f775" />
+
+#### *2025 context*
+
+<img width="868" height="394" alt="image" src="https://github.com/user-attachments/assets/6d327ea5-fb6f-49f9-a6d4-be0ea41791a8" />
 
 #### 📌 Analysis 2. Core Production Function Under Weighted on Variable Pay
-Company-wide, fixed & variable pay ratio split is healthy and stable (~62% / ~38%) in both years. By job family, however, Production & Operations which os the core output generating function carries the lowest variable share of any family in 2024 (35.53%), trailing back office functions like Finance & Accounting and Engineering/Technical (~40%). This is the inverse of typical incentive design, where output linked roles usually warrant heavier variable weighting. 2025 shows partial correction (Production rises to 38.24%), while HR & Admin/Support drops sharply to 31.74%
+At  organization level, fixed pay & variable pay ratio is healthy and stable at approximately in both years. By job family, however, Production & Operations which is the core output generating function carries the lowest variable pay share of any family in 2024 at 35.53%, trailing functions such as Finance & Accounting and Engineering/Technical (both nearly 40%). This is inconsistent with conventional incentive design, under which output linked roles typically warrant a heavier variable weighting. The gap narrows in 2025 as Production rises to 38.24%, while HR & Admin/Support declines sharply to 31.74%, a shift meriting further review
+
+#### *2024 context*
+
+<img width="434" height="168" alt="image" src="https://github.com/user-attachments/assets/08282347-19b5-4bd1-90f2-75281444b751" />
+
+#### *2025 context*
+
+<img width="434" height="167" alt="image" src="https://github.com/user-attachments/assets/9fa398de-5262-4cd7-a0bd-809daa87e3e2" />
+
+#### 📌 Analysis 3. Payout Ratios Show Seasonal Timing Distortion
+Every job family recorded a sharp payout spike in March 2024 (115 - 178%), a pattern sufficiently uniform across unrelated departments to suggest a shared timing event, likely Tet related adjustment rather than genuine overperformance. Outside of March, most job families held a healthy 85 - 100% range but Production & Operations was the exception, ranging from 178.4% to 60.5% within the same year with the widest swing observed across all families. In 2025 the same spike is absent and replaced instead by a broad dip across February - March that recovers by June
+
+#### *2024 context*
+
+<img width="896" height="177" alt="image" src="https://github.com/user-attachments/assets/67edf7ac-c4b4-42b8-b178-451904d75f31" />
+
+#### *2025 context*
+
+<img width="895" height="175" alt="image" src="https://github.com/user-attachments/assets/f5e6e25d-77fc-48a6-90a3-2c518c3d9ad3" />
+
+#### 📌 Analysis 4. Bonus System Fails to Differentiate Performance
+Every job family in 2024 & 2025 falls below the 1.5x threshold that denotes effective differentiation between high and low performers. The trend is deteriorating that five of six families sit below 1.0 in 2025, indicating bottom quartile performers receive higher median bonus than top quartile performers compared with four in 2024. Read against KPI Distribution which shows an extreme concentration near 100% achievement in both years, this lack of differentiation is partly structural with the workforce clustered almost entirely at a single performance level, little genuine variance remains for any bonus formula to act on
+
+#### *2024 context*
+
+<img width="898" height="190" alt="image" src="https://github.com/user-attachments/assets/a0eaf72b-3fc8-403d-9e2c-038c5034783c" />
+
+#### *2025 context*
+
+<img width="899" height="188" alt="image" src="https://github.com/user-attachments/assets/fe506f0f-035f-4c35-bc6c-6ab16f353f9a" />
 
