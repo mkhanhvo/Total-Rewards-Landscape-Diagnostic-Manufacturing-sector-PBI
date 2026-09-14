@@ -29,6 +29,10 @@ The Vietnam based manufacturing company operates a domestic production facility 
 
 #### 2️⃣ Table Schema & Data Snapshot
 
+#### Table relationship
+
+<img width="769" height="491" alt="image" src="https://github.com/user-attachments/assets/5f9ed9e9-f611-4fd3-8c78-2368a57d85f7" />
+
 #### Table 1: Payroll & KPI
 
 <img width="1064" height="601" alt="image" src="https://github.com/user-attachments/assets/1e10394a-805d-4d37-a6b8-e90003b3ef23" />
